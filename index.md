@@ -4,15 +4,17 @@ layout: default
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a Language Technology MA student in the University of Helsinki.
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[Facebook](https://www.facebook.com/teemu.vahtola),
+[LinkedIn](https://www.linkedin.com/in/teemu-vahtola),
+[GitHub](https://github.com/teemuvh)
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+My email address is teemu.vahtola@helsinki.fi
 
 ## Courses I've Taken
 
@@ -22,6 +24,6 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Projects
 
-## Misc. 
+## Misc.
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese)

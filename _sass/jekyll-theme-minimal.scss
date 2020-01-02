@@ -2,7 +2,7 @@
 @import "rouge-github";
 
 body {
-  background-color: #fff;
+  background-color: #FFF;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
@@ -36,12 +36,12 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#267CB9;
+  color:#d5b6b6;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#005cf9;
+  color:#395d33;
 }
 
 a small {
@@ -211,7 +211,7 @@ a.sitelinks {
     width:auto;
     margin:0;
   }
- 		 
+
   header, section, footer {
     float:none;
     position:static;

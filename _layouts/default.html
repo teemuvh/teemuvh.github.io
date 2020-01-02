@@ -15,16 +15,18 @@
     <div class="wrapper">
       <header>
         <h1>{{site.title}}</h1>
-        
+
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+        <a href="http://www.facebook.com/teemu.vahtola">Follow me on facebook</a>
+
       </header>
       <section>
 	<div class="linkbar">
-	  <a class="sitelinks" href="index.html">Home</a> 
-	  <a class="sitelinks" href="cmdline_course.html">Command-Line Course</a> 
+	  <a class="sitelinks" href="index.html">Home</a>
+	  <a class="sitelinks" href="cmdline_course.html">Command-Line Course</a>
 	</div>
       {{ content }}
 
