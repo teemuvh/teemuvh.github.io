@@ -4,11 +4,15 @@ layout: default
 
 ## Introduction
 
-I am a Language Technology MA student in the University of Helsinki.
+I am a Language Technology MA student in the University of Helsinki. I am currently working
+on my master's thesis about context aware neural machine translation. I am constantly
+learning, and looking for more exciting projects in the field of language technology
+and natural language processing.
 
 ## Contact
 
-My email address is teemu.vahtola@helsinki.fi
+You can contact me by email *teemu.vahtola@helsinki.fi*  
+or via my social media platforms.
 
 ## Courses I've Taken
 
@@ -39,7 +43,3 @@ My email address is teemu.vahtola@helsinki.fi
 [Command Line Tools for linguists](https://courses.helsinki.fi/fi/KIK-LG219/129824412), fall 2019
 
 ## Projects
-
-## Misc.
-
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese)
