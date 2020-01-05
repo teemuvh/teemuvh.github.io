@@ -50,5 +50,5 @@ or via my social media platforms.
 for importing into <a href="https://korp.csc.fi" target="_blank">Korp concordance search tool</a>. Done as a research assistant in the University of Helsinki for
 <a href="https://blogs.helsinki.fi/mara-project/" target="_blank">The Mara Project</a> in 2019.  
 
-<a href="https://teemuvh.github.io/cmdline_course.html" target="_blank">Command line tutorial</a> for beginners. Done as a part of the University of Helsinki
+<a href="https://teemuvh.github.io/cmdline_course.html" target="_blank">Command line tutorial</a> for complete beginners. Done as a part of the University of Helsinki
 course <a href="https://courses.helsinki.fi/fi/KIK-LG219/129824412" target="_blank">Command Line Tools for Linguists</a> in 2019.
