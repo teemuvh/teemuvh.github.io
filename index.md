@@ -46,7 +46,7 @@ or via my social media platforms.
 
 ## Projects
 
-<a href="https://github.com/teemuvh/corpus-conversion" target="_blank">Converting tool</a> for converting .xml-files to .vrt (VeRticalized Text) format
+<a href="https://github.com/teemuvh/corpus-conversion" target="_blank">Conversion tool</a> for converting .xml-files to .vrt (VeRticalized Text) format
 for importing into <a href="https://korp.csc.fi" target="_blank">Korp concordance search tool</a>. Done as a research assistant in the University of Helsinki for
 <a href="https://blogs.helsinki.fi/mara-project/" target="_blank">The Mara Project</a> in 2019.  
 
